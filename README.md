@@ -1,0 +1,1 @@
+JS pode estar meio confuso, mas é que eu usei gemnia ia - e pra alterar o modo claro e escuro também, tentei fazer algo bonitinho, pode estar sujeito a mudanças e alterações. (PRECISA REFAZER O OR NO MODO ESCURO)
